@@ -6,7 +6,7 @@ This is an analysis of motorcycle sales, by a particular store. I wanted to have
 
 # Insights
 - Monthly orders
-- Yearly sales distributuion
+- Yearly sales distribution
 - State of order
 - Distribution of sales across the world, and also type of produts purchased.
 
