@@ -8,7 +8,7 @@ This is an analysis of motorcycle sales, done by a particular store. I wanted to
 - Monthly orders
 - Yearly sales distributuion
 - State of order
-- Distribution of sales across the world, and also tpye of produts purchased.
+- Distribution of sales across the world, and also type of produts purchased.
 
 # Tools used
 Google Sheets, Microsoft Excel
