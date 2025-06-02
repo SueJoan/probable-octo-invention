@@ -2,7 +2,7 @@
 Motorcycle Sales
 
 # Description
-This is an analysis of motorcycle sales, done by a particular store. I wanted to have a look at the data and find out the place around the world that has been making the biggest purchase and the best selling type of product and also when most orders have been placed and also tracking the status of thr orders placed; whether they have been delivered, cancelled, shipped and everything in between.
+This is an analysis of motorcycle sales, by a particular store. I wanted to have a look at the data and find out the place around the world that has been making the biggest purchase and the best selling type of product and also when most orders have been placed and also tracking the status of the orders placed; whether they have been delivered, cancelled, shipped and everything in between.
 
 # Insights
 - Monthly orders
